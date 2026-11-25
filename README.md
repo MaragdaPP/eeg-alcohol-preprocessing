@@ -59,7 +59,6 @@ No data are included: the recordings belong to study participants.
 
 ## Credits
 
-Pipeline: Maragda Puigcerver Pérez. Preprocessing of the recordings and spectral analysis:
-Anđela Bošnjak. Universitat de València.
+Maragda Puigcerver Pérez, Universitat de València.
 
 MIT licence.
