@@ -1,0 +1,12 @@
+# EEG preprocessing pipeline — alcohol project
+# Tested with Python 3.11 (python.org installer). Exact versions are pinned
+# because they are the ones the pipeline was verified with; newer Python
+# versions (3.13+) have no wheels for these numpy/scipy releases.
+mne==1.8.0
+numpy==2.0.2
+scipy==1.13.1
+pandas==2.3.3
+matplotlib==3.9.4
+scikit-learn==1.6.1
+openpyxl==3.1.5
+ipykernel>=6.29,<7

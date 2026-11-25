@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived version you used."
+title: "eeg-alcohol-preprocessing: EEG preprocessing and spectral extraction for an acute-stress and decision-making study"
+type: software
+authors:
+  - family-names: "Puigcerver Pérez"
+    given-names: "Maragda"
+    affiliation: "Universitat de València"
+version: "1.0.0"
+date-released: "2026-11-25"
+repository-code: "https://github.com/MaragdaPP/eeg-alcohol-preprocessing"
+license: MIT
+keywords:
+  - EEG
+  - MNE-Python
+  - independent component analysis
+  - alpha power
+  - Iowa Gambling Task
+  - acute stress

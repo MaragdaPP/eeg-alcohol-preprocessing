@@ -1,0 +1,14 @@
+# data never leave the lab
+*.eeg
+*.vhdr
+*.vmrk
+*.fif
+*.csv
+*.json
+*.xlsx
+raw_data/
+output*/
+clean_data/
+.mplconfig/
+__pycache__/
+.DS_Store
